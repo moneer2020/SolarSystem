@@ -13,5 +13,7 @@ public class Main {
         Freon.color="500kj";
         Freon.size="7000km";
         Freon.Temp="40000c";
+        Freon.wight="2000lbs";
+
     }
 }
